@@ -1,17 +1,13 @@
 /.agents
-/.codex
 /.venv
 *.pyc
 
 
 /logs
 
-
 /.env
 
-
-
-/data/*
+/data
 
 /testing/.env
 /testing/mail.txt
