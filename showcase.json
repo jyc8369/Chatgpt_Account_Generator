@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "repository": "Chatgpt_Account_Generator",
+  "enabled": true,
+  "featured": false,
+  "order": 5,
+  "category": "Project",
+  "summary": "",
+  "tags": [],
+  "demoUrl": "",
+  "coverImage": ""
+}
