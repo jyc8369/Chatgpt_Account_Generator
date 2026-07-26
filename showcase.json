@@ -5,8 +5,13 @@
   "featured": false,
   "order": 5,
   "category": "Project",
-  "summary": "",
-  "tags": [],
+  "summary": "Automate email creation, OTP retrieval, registration, and local result tracking through a web UI or CLI.",
+  "tags": [
+    "python",
+    "automation",
+    "otp",
+    "cli"
+  ],
   "demoUrl": "",
   "coverImage": ""
 }
