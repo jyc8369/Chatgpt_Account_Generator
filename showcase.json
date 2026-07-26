@@ -1,10 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "repository": "Chatgpt_Account_Generator",
   "enabled": true,
   "featured": false,
   "order": 5,
   "category": "Project",
+  "title": "ChatGPT Account Generator",
   "summary": "Automate email creation, OTP retrieval, registration, and local result tracking through a web UI or CLI.",
   "tags": [
     "python",
@@ -12,6 +13,18 @@
     "otp",
     "cli"
   ],
+  "status": "active",
+  "platforms": [
+    "Web UI",
+    "CLI"
+  ],
+  "highlights": [
+    "Email and OTP automation",
+    "Web UI and CLI",
+    "Local results and backups"
+  ],
   "demoUrl": "",
-  "coverImage": ""
+  "downloadUrl": "",
+  "coverImage": "",
+  "accent": "neutral"
 }
